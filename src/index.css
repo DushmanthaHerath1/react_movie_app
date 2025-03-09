@@ -131,7 +131,6 @@
     & .content span {
       @apply text-sm text-gray-100;
     }
-
     & .content .lang {
       @apply capitalize text-gray-100 font-medium text-base;
     }
